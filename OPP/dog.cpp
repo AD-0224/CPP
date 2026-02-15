@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-    class Chien
+    class Dog
     {
         public:
             int age;
             string nom;
 
-            Chien (string name, int n)
+            Dog (string name, int n)
             {
                 nom = name;
                 age = n;
@@ -21,6 +21,6 @@ using namespace std;
 
 int main ()
 {
-    Chien rex ("Rex" , 5);
+    Dog rex ("Rex" , 5);
     rex. aboyer();
 }

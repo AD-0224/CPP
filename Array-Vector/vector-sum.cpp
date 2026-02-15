@@ -10,7 +10,6 @@ int main()
     {
         sum += v[i];
     }
-
     std::cout << "Sum = " << sum << std::endl;
     return 0;
 }

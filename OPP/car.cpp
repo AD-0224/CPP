@@ -1,23 +1,23 @@
 #include <iostream>
 using namespace std;
 
-class Voiture
+class Cars
 {
   public:
-    int vitesse;
+    int speed;
 
-    Voiture(int v)
+    Cars(int v)
     {
-        vitesse = v;
+        speed = v;
     }
 
-    void accelerer()
+    void accelerate()
     {
-        vitesse += 10;
+        speed += 10;
     }
 
-    void afficher()
+    void display()
     {
-        cout << "Vitesse: " << vitesse << " km/h" << endl;
+        cout << "Speed: " << speed << " km/h" << endl;
     }
 };
