@@ -46,7 +46,5 @@ Each subfolder contains its own README or build instructions - chaque sous-dossi
 
 ---
 
-📫 Contact & Freelance
-If you're a recruiter, developer, or entrepreneur interested in collaboration or freelance work in C/C++ - si vous êtes recruteur·se, développeur·se ou entrepreneur·e intéressé·e par une collaboration freelance en C/C++, feel free to connect :
 📧 zelvia.dev@gmail.com
 🌐 Coming soon | Bientôt disponible : My Freelance Portfolio Website
